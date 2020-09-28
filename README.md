@@ -1,3 +1,13 @@
+# Netflix-Clone
+
+![Netflix-Clone](https://www.freepnglogos.com/uploads/netflix-logo-0.png)
+
+![Netflix-Clone](https://i.ibb.co/Bz76JrT/Screen-Shot-2020-09-28-at-3-06-00-PM.png)
+
+[Deployment on Firebase](https://netflix-clone-81db8.firebaseapp.com)
+
+Netflix, Inc. is an American technology and media services provider and production company headquartered in Los Gatos, California. Netflix was founded in 1997 by Reed Hastings and Marc Randolph in Scotts Valley, California. The company's primary business is its subscription-based streaming service which offers online streaming of a library of films and television series, including those produced in-house. As of April 2020, Netflix had over 193 million paid subscriptions worldwide, including 73 million in the United States. It is available worldwide except in the following: mainland China (due to local restrictions), Syria, North Korea, and Crimea (due to U.S. sanctions). The company also has offices in France, United States, United Kingdom, Brazil, the Netherlands, India, Japan, and South Korea. Netflix is a member of the Motion Picture Association (MPA). Today, the company produces and distributes content from countries all over the globe.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
